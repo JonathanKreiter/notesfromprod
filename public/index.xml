@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Notes from prod</title>
-    <link>https://notesfromprod.dev/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Notes from prod</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.154.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Jan 2026 21:09:46 -0700</lastBuildDate>
-    <atom:link href="https://notesfromprod.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://notesfromprod.dev/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Sat, 10 Jan 2026 21:09:46 -0700</pubDate>
-      <guid>https://notesfromprod.dev/posts/hello-world/</guid>
-      <description>&lt;p&gt;Test, test, test.&lt;/p&gt;&#xA;&lt;p&gt;All bull, no shit.&lt;/p&gt;&#xA;&lt;p&gt;Test, test, test.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Test, test, test.&lt;/p&gt;
+&lt;p&gt;All bull, no shit.&lt;/p&gt;
+&lt;p&gt;Test, test, test.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
