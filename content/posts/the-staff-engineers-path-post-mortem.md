@@ -1,4 +1,8 @@
-# The Staff Engineers Path Post Mortem
++++
+date = '2026-02-01'
+draft = false
+title = 'The Staff Engineers Path Post Mortem'
++++
 
 I found Tanya Reilly's book validating. I came into Software Engineering as a career switcher from a completely unrelated field, but I spent years in operations management. Most likely due to my ADHD, I thrived in high-stakes, chaotic environments that required a lot of coordination and "synergy" (a word I think sucks, but for lack of a better term it's good enough) between people to be successful. You could try to do it alone, but you'd most likely fail. Coordinating group effort is hard. Really hard. Sometimes it feels like baby sitting, sometimes it feels like you're fighting each other even though you're on the same side. And sometimes it felt like you were walking through your own Dante's Inferno. Throughout that journey I learned a lot of soft skills around people management, leadership, and communication (it was exhausting). When I took a leap of faith in software engineering, I threw those soft skills in the trunk and focused on gaining technical skills to prove that I was worth keeping. This world was new to me, and I was surrounded by people who honestly lacked a lot of social skills, so I didn't feel the need to whip out all of my tools I gained from previous experience. Since I came from a non-traditional background, I felt I didn't belong. So I put my head down and pushed myself to improve technically to feel less like an imposter. 
 
