@@ -4,18 +4,23 @@
     <title>Notes from prod</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Notes from prod</description>
-    <generator>Hugo -- 0.154.3</generator>
+    <generator>Hugo -- 0.161.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jan 2026 21:09:46 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Hypothesis: LLMs are driving us to only use surface-level thinking</title>
       <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sat, 10 Jan 2026 21:09:46 -0700</pubDate>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Test, test, test.&lt;/p&gt;
-&lt;p&gt;All bull, no shit.&lt;/p&gt;
-&lt;p&gt;Test, test, test.&lt;/p&gt;</description>
+      <description></description>
+    </item>
+    <item>
+      <title>The Staff Engineers Path Post Mortem</title>
+      <link>http://localhost:1313/posts/the-staff-engineers-path-post-mortem/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-staff-engineers-path-post-mortem/</guid>
+      <description>&lt;p&gt;I found Tanya Reilly&amp;rsquo;s book validating. I came into Software Engineering as a career switcher from a completely unrelated field, but I spent years in operations management. Most likely due to my ADHD, I thrived in high-stakes, chaotic environments that required a lot of coordination and &amp;ldquo;synergy&amp;rdquo; (a word I think sucks, but for lack of a better term it&amp;rsquo;s good enough) between people to be successful. You could try to do it alone, but you&amp;rsquo;d most likely fail. Coordinating group effort is hard. Really hard. Sometimes it feels like baby sitting, sometimes it feels like you&amp;rsquo;re fighting each other even though you&amp;rsquo;re on the same side. And sometimes it felt like you were walking through your own Dante&amp;rsquo;s Inferno. Throughout that journey I learned a lot of soft skills around people management, leadership, and communication (it was exhausting). When I took a leap of faith in software engineering, I threw those soft skills in the trunk and focused on gaining technical skills to prove that I was worth keeping. This world was new to me, and I was surrounded by people who honestly lacked a lot of social skills, so I didn&amp;rsquo;t feel the need to whip out all of my tools I gained from previous experience. Since I came from a non-traditional background, I felt I didn&amp;rsquo;t belong. So I put my head down and pushed myself to improve technically to feel less like an imposter.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

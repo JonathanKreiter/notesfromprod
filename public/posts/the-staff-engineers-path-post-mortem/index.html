@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto" data-theme="auto">
 
-<head>
-	<meta name="generator" content="Hugo 0.161.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Notes from prod</title>
-
-<meta name="description" content="">
+<title>The Staff Engineers Path Post Mortem | Notes from prod</title>
+<meta name="keywords" content="">
+<meta name="description" content="I found Tanya Reilly&rsquo;s book validating. I came into Software Engineering as a career switcher from a completely unrelated field, but I spent years in operations management. Most likely due to my ADHD, I thrived in high-stakes, chaotic environments that required a lot of coordination and &ldquo;synergy&rdquo; (a word I think sucks, but for lack of a better term it&rsquo;s good enough) between people to be successful. You could try to do it alone, but you&rsquo;d most likely fail. Coordinating group effort is hard. Really hard. Sometimes it feels like baby sitting, sometimes it feels like you&rsquo;re fighting each other even though you&rsquo;re on the same side. And sometimes it felt like you were walking through your own Dante&rsquo;s Inferno. Throughout that journey I learned a lot of soft skills around people management, leadership, and communication (it was exhausting). When I took a leap of faith in software engineering, I threw those soft skills in the trunk and focused on gaining technical skills to prove that I was worth keeping. This world was new to me, and I was surrounded by people who honestly lacked a lot of social skills, so I didn&rsquo;t feel the need to whip out all of my tools I gained from previous experience. Since I came from a non-traditional background, I felt I didn&rsquo;t belong. So I put my head down and pushed myself to improve technically to feel less like an imposter.">
 <meta name="author" content="A Software Engineer, like you.">
-<link rel="canonical" href="http://localhost:1313/">
+<link rel="canonical" href="http://localhost:1313/posts/the-staff-engineers-path-post-mortem/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.4ef2299ae814559c4055cd3d15919aff78737e44fa7af337c506246832ba458a.css" integrity="sha256-TvIpmugUVZxAVc09FZGa/3hzfkT6evM3xQYkaDK6RYo=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -19,8 +18,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="rss">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/the-staff-engineers-path-post-mortem/">
 <noscript>
     <style>
         #theme-toggle,
@@ -74,7 +72,7 @@
 
 </script>
 </head>
-<body class="list" id="top">
+<body id="top">
     <header class="header">
     <nav class="nav">
         <div class="logo">
@@ -106,44 +104,40 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<article class="first-entry home-info">
-    <header class="entry-header">
-        <h1><em>All bull, <del>no shit</del>.</em></h1>
-    </header>
-    <div class="entry-content">
-        
-    </div>
-    <footer class="entry-footer">
-        <div class="social-icons" >
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      The Staff Engineers Path Post Mortem
+    </h1>
+    <div class="post-meta"><span title='2026-02-01 00:00:00 +0000 UTC'>February 1, 2026</span>&nbsp;·&nbsp;<span>A Software Engineer, like you.</span>
+
 </div>
+  </header> 
+  <div class="post-content"><p>I found Tanya Reilly&rsquo;s book validating. I came into Software Engineering as a career switcher from a completely unrelated field, but I spent years in operations management. Most likely due to my ADHD, I thrived in high-stakes, chaotic environments that required a lot of coordination and &ldquo;synergy&rdquo; (a word I think sucks, but for lack of a better term it&rsquo;s good enough) between people to be successful. You could try to do it alone, but you&rsquo;d most likely fail. Coordinating group effort is hard. Really hard. Sometimes it feels like baby sitting, sometimes it feels like you&rsquo;re fighting each other even though you&rsquo;re on the same side. And sometimes it felt like you were walking through your own Dante&rsquo;s Inferno. Throughout that journey I learned a lot of soft skills around people management, leadership, and communication (it was exhausting). When I took a leap of faith in software engineering, I threw those soft skills in the trunk and focused on gaining technical skills to prove that I was worth keeping. This world was new to me, and I was surrounded by people who honestly lacked a lot of social skills, so I didn&rsquo;t feel the need to whip out all of my tools I gained from previous experience. Since I came from a non-traditional background, I felt I didn&rsquo;t belong. So I put my head down and pushed myself to improve technically to feel less like an imposter.</p>
+<p>This worked out pretty well; I was gaining more notoriety as someone dependable and reliable. I was brought to the table on a lot of conversations that I wouldn&rsquo;t have been privy to before. It was exciting. But as I grew more technical and my prefrontal cortex had room to breathe, I was starting to see the cracks that my previous soft skills could fill. I started to notice the breakdown in communication between teams, the misunderstandings, politics, etc. But these thoughts were unconscious. It had been 3 or 4 years since I was a manager, and I was burnt out from that life, so I did my best to ignore anything that caught my &ldquo;manager&rdquo; eye.</p>
+<p>Until I couldn&rsquo;t.</p>
+<p>Tanya&rsquo;s book put into formalized words everything my gut was saying. I found myself nodding along to the book almost 100% of the time. Some of it felt like common sense to me, but for those who have only worked in tech and haven&rsquo;t had any people management experience could see it as enlightening. In the end I came away feeling validated, like I&rsquo;ve been able to find the path clearly on my own, and Tanya&rsquo;s book took a look and said &ldquo;yep, keep going.&rdquo;</p>
+<p>I pretty much liked everything about the book. If there are any cons, it&rsquo;s not really that there are any to me, but I could have skipped around due to already feeling like I knew the content of certain chapters.</p>
+<p>The following are my thoughts and words, not a reflection of the book&rsquo;s message. More so my outlook after reading the book:</p>
+<ul>
+<li>Once you upgrade from being a &ldquo;grunt&rdquo;, you gain a new problem. People.</li>
+<li>People are blockers. People are also remedies.</li>
+<li>Do not avoid political capital. This applies to juniors (if there are any left in today&rsquo;s misguided AI-bubble technofeudalism world), newcomers, and senior+ engineers. Without it, your job will only be harder. Sometime you won&rsquo;t be able to DO your job without it.</li>
+<li>Learn to negotiate (and influence). You have to do this with Product, other engineering teams, and stakeholders of your project(s). Without this, you&rsquo;ll be pulled so thin and expectations will be so high, you&rsquo;re only set up to fail. Entropy wins every time when you don&rsquo;t negotiate.</li>
+<li>Your ability to deliver value increases exponentially when you have people skills. Projects cannot be delivered by one engineer. If you&rsquo;re working on one that can, then you&rsquo;re working on the wrong thing and that problem is below you. Your problems should be measured by the number of poeple you need to coordinate with to solve that problem. This is the problem you should be solving because this is a class of problems only a select few can solve (and the business value more).</li>
+</ul>
+<p>There are many gems in this book. I need to go through the sticky notes I made and update this article. But even more so, I&rsquo;d suggest you read the book. While not everyone is a staff (I don&rsquo;t have that title), staff engineer is a mindset as much as it is a position. And it helps to dress for the job you want, not the job you have.</p>
 
-    </footer>
-</article>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hypothesis: LLMs are driving us to only use surface-level thinking
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p></p>
   </div>
-  <footer class="entry-footer"><span title='2026-04-29 00:00:00 +0000 UTC'>April 29, 2026</span>&nbsp;·&nbsp;<span>A Software Engineer, like you.</span></footer>
-  <a class="entry-link" aria-label="post link to Hypothesis: LLMs are driving us to only use surface-level thinking" href="http://localhost:1313/posts/hello-world/"></a>
-</article>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">The Staff Engineers Path Post Mortem
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>I found Tanya Reilly’s book validating. I came into Software Engineering as a career switcher from a completely unrelated field, but I spent years in operations management. Most likely due to my ADHD, I thrived in high-stakes, chaotic environments that required a lot of coordination and “synergy” (a word I think sucks, but for lack of a better term it’s good enough) between people to be successful. You could try to do it alone, but you’d most likely fail. Coordinating group effort is hard. Really hard. Sometimes it feels like baby sitting, sometimes it feels like you’re fighting each other even though you’re on the same side. And sometimes it felt like you were walking through your own Dante’s Inferno. Throughout that journey I learned a lot of soft skills around people management, leadership, and communication (it was exhausting). When I took a leap of faith in software engineering, I threw those soft skills in the trunk and focused on gaining technical skills to prove that I was worth keeping. This world was new to me, and I was surrounded by people who honestly lacked a lot of social skills, so I didn’t feel the need to whip out all of my tools I gained from previous experience. Since I came from a non-traditional background, I felt I didn’t belong. So I put my head down and pushed myself to improve technically to feel less like an imposter.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2026-02-01 00:00:00 +0000 UTC'>February 1, 2026</span>&nbsp;·&nbsp;<span>A Software Engineer, like you.</span></footer>
-  <a class="entry-link" aria-label="post link to The Staff Engineers Path Post Mortem" href="http://localhost:1313/posts/the-staff-engineers-path-post-mortem/"></a>
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
 </article>
     </main>
     

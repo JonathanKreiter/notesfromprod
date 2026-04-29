@@ -2,3 +2,9 @@ baseURL = 'https://notesfromprod.dev'
 languageCode = 'en-us'
 title =  'Notes from prod'
 theme = 'PaperMod'
+
+[params]
+  author = "A Software Engineer, like you."
+
+  [params.homeInfoParams]
+    Title = "*All bull, ~no shit.~*"
