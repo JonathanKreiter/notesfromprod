@@ -1,14 +1,16 @@
 +++
 date = '2026-04-29'
 draft = false
-title = 'Hypothesis: LLMs are driving us to only use surface-level thinking'
+title = 'Surface level thinking is in the shitter'
 +++
 
 _Hypothesis_: 
+
 LLMs are driving us to only use surface-level thinking, and this will lead to a decline in all future opportunities.
 
 
 _Editorial_: 
+
 I'm worried about how I think, specifically the "depth" of my thinking. I don't track how "deep" I think regularly, nor do I have any objective tools that I could use for metrics. The only tool I have is my gut, which is more-or-less unreliable, but for the lack of tools, I'll use it. 
 
 My gut tells me I haven't been thinking deeply lately (weeks? months? Unfortunately, there isn't a timeline my gut keeps track of, only stimulus). I was a currmugden around LLMs when they first came out, pushing them away until 8 or so months ago. After I got the hang of prompting well enough to not want to pull my hair out, I slowly began to fall victim to my biology and realized after a few weeks I was turning towards LLMs to replace my thinking. I found myself:
